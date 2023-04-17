@@ -189,6 +189,40 @@ h2{
     opacity: 0.5;
 }
 
+.h1{
+
+}
+
+.main-title{
+    font-weight: 900;
+    color: rgb(77, 16, 230);
+}
+
+.main-name{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(52, 165, 42);
+    text-shadow: -3px -3px 5px skyblue;
+    font-size: 86px;
+    font-style: italic;
+
+}
+
+.main-name:hover{
+    color: rgb(236, 6, 152);
+    cursor: pointer;
+    
+}
+
+.main-text {
+    text-align: center;
+    background-color: rgba(225, 226, 127, 0.3);
+    margin-bottom: 50px;
+    font-size: 36px;
+}
+
+
+
 
     
     
