@@ -21,14 +21,14 @@ h2{
  
 
 body {
-    background-image: linear-gradient(to right,rgb(50, 50, 205),red,rgb(166, 6, 210));
+    background-image: linear-gradient(to right,rgb(50, 50, 205),rgb(255, 255, 0),rgb(166, 6, 210));
 }
 
 .cart-item {
     border-radius: 30px ;
        width: 301px;
        height: 500px;
-       background-color: rgb(160, 126, 160);
+       
        position: relative;
        box-shadow: 0px 0px 8px 5px;
        overflow: scroll;
@@ -91,7 +91,6 @@ h2{
         border-radius: 30px ;
            width: 301px;
            height: 500px;
-           background-color: rgb(47, 255, 154);
            position: relative;
            box-shadow: 0px 0px 8px 5px;
            overflow: scroll;
@@ -102,7 +101,6 @@ h2{
         border-radius: 30px ;
            width: 301px;
            height: 500px;
-           background-color: rgb(213, 255, 47);
            position: relative;
            box-shadow: 0px 0px 8px 5px;
            overflow: scroll;
@@ -113,7 +111,6 @@ h2{
         border-radius: 30px ;
            width: 301px;
            height: 500px;
-           background-color: rgb(255, 151, 47);
            position: relative;
            box-shadow: 0px 0px 8px 5px;
            overflow: scroll;
@@ -124,7 +121,6 @@ h2{
         border-radius: 30px ;
            width: 301px;
            height: 500px;
-           background-color: rgb(255, 47, 47);
            position: relative;
            box-shadow: 0px 0px 8px 5px;
            overflow: scroll;
@@ -135,7 +131,6 @@ h2{
         border-radius: 30px ;
            width: 301px;
            height: 500px;
-           background-color: rgb(255, 47, 186);
            position: relative;
            box-shadow: 0px 0px 8px 5px;
            overflow: scroll;
@@ -195,7 +190,5 @@ h2{
 }
 
 
-    
-    
     
     
