@@ -76,10 +76,12 @@ img {
 
 
 
-.header {
-    background-image: radial-gradient( ellipse at center, rgb(47, 255, 238), rgb(36, 182, 68));
-    height: 200px;
-}
+
+    .header {
+        background-image: radial-gradient( ellipse at center, rgb(47, 255, 238), rgb(36, 182, 68));
+        height: 200px;
+    }
+ 
 
 h2{
     text-shadow :3px 3px 2px  rgb(235, 135, 148) ;
