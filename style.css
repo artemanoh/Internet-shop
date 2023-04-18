@@ -1,4 +1,4 @@
-.card-list {
+.cards-list {
     display: flex;
       gap: 50px;
       list-style: none;
@@ -21,11 +21,11 @@ h2{
  
 
 body {
-    background-image: linear-gradient(to right,rgb(50, 50, 205),rgb(255, 255, 0),rgb(166, 6, 210));
+    background-image: linear-gradient(to right,rgb(50, 50, 205),rgb(246, 255, 0),rgb(166, 6, 210)); ;
 }
 
 .cart-item {
-    border-radius: 30px ;
+    border-radius: 40px ;
        width: 301px;
        height: 500px;
        
@@ -77,15 +77,17 @@ img {
 
 
 .header {
-    background-image: radial-gradient( ellipse at center, rgb(47, 248, 255), rgb(36, 182, 68));
+    background-image: radial-gradient( ellipse at center, rgb(47, 255, 238), rgb(36, 182, 68));
     height: 200px;
 }
 
 h2{
-    text-shadow :3px 3px 2px  skyblue ;
+    text-shadow :3px 3px 2px  rgb(235, 135, 148) ;
     text-transform: uppercase ;
     text-align: center;
-    }
+    
+}
+
 
     .cart-item1{
         border-radius: 30px ;
@@ -187,10 +189,6 @@ h2{
     top:0;
     left: 0;
     opacity: 0.5;
-}
-
-.h1{
-
 }
 
 .main-title{
