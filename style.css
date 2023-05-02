@@ -247,8 +247,19 @@ h2{
 
 
  .h4{
-    te
+    text-transform: uppercase ;
+    text-align: center;
+    
  }
 
 
+ .a_1{
+    color: rgb(65, 224, 65);
+    box-align: center;
+    text-transform: uppercase;
+    display: block;
+ }
+
  
+
+
