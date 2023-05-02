@@ -29,17 +29,19 @@ body {
 
 .cart-item {
     border-radius: 45px;
-       width: 301px;
+       width: 650px;
        height: 500px;
        position: relative;
        box-shadow: 0px 0px 8px 5px;
        overflow: scroll;
        transition:  all 1s;
-       border: dotted yellow 5px;
+       border:   4mm ridge rgba(211, 220, 50, .6);
+       
 }
 
 img {
     width: 100%;
+   
 }
 
 .page-link {
@@ -53,9 +55,7 @@ img {
 }
 
 .page-link:hover {
-    transform: rotate(360deg);
-    
-  
+    transform: rotate(360deg);  
 }
 
 .cart-item:hover .overlay{
@@ -88,6 +88,9 @@ img {
         background-image: radial-gradient( ellipse at center, rgb(47, 255, 238), rgb(36, 182, 68));
         height: 195px;
         border-radius: 35px;
+       
+       
+        
     }
  
 
@@ -107,6 +110,7 @@ h2{
            box-shadow: 0px 0px 8px 5px;
            overflow: scroll;
            transition:  all 1s;
+           
     }
 
     .cart-item2{
@@ -240,6 +244,11 @@ h2{
     width:10%;
     position: absolute;
  }   
+
+
+ .h4{
+    te
+ }
 
 
  
